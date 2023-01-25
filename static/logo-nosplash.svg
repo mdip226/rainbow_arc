@@ -8,7 +8,7 @@
    version="1.1"
    id="svg25249"
    inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
-   sodipodi:docname="0.9.svg"
+   sodipodi:docname="logo-nosplash.svg"
    inkscape:export-filename="../../dipware/clients/carrie/website/static/rainbow_arc/static/0.8.png"
    inkscape:export-xdpi="522.13873"
    inkscape:export-ydpi="522.13873"
@@ -30,14 +30,14 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="1.4142136"
-     inkscape:cx="305.82367"
-     inkscape:cy="682.71158"
+     inkscape:cx="114.19774"
+     inkscape:cy="168.29141"
      inkscape:window-width="1858"
      inkscape:window-height="1016"
      inkscape:window-x="62"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer8" />
+     inkscape:current-layer="svg25249" />
   <defs
      id="defs25246">
     <linearGradient
@@ -125,9 +125,9 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter82129"
-       x="-0.28262728"
+       x="-0.28262727"
        y="-0.28181791"
-       width="1.5652544"
+       width="1.5652545"
        height="1.5636358">
       <feGaussianBlur
          inkscape:collect="always"
@@ -138,10 +138,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter82248"
-       x="-0.3554472"
-       y="-0.3554472"
-       width="1.7108943"
-       height="1.7108943">
+       x="-0.35544721"
+       y="-0.35544721"
+       width="1.7108944"
+       height="1.7108944">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="7.5555516"
@@ -228,7 +228,8 @@
      id="layer5"
      inkscape:label="SOHAR"
      sodipodi:insensitive="true"
-     transform="translate(-34.215306,-82.499723)">
+     transform="translate(-34.215306,-82.499723)"
+     style="display:none">
     <g
        id="layer6"
        inkscape:label="background"
